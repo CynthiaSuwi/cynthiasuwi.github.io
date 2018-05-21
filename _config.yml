@@ -1,7 +1,7 @@
 # Site
-title:              Shuwei Xu | suwi
-bio:                'Minimal, one column jekyll theme.'
-description:        "My recording in [GSoC 2018](https://summerofcode.withgoogle.com/projects/#5284664500027392)."
+title:              Shuwei Xu | suwi ^.^
+bio:                'My recording in [GSoC 2018](https://summerofcode.withgoogle.com/projects/#5284664500027392).'
+description:        "My recording in GSoC 2018."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -47,7 +47,7 @@ linkedin:           cynthiasuwi
 #instagram:         username
 #lastfm:            username
 #tumblr:            username
-medium:            '@suwi'
+medium:             'suwi'
 #pinterest:         username
 #foursquare:        username
 #steam:             username
