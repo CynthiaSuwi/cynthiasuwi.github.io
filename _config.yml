@@ -12,10 +12,10 @@ email: cherub_cinderella@outlook.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://medium.com/suwi" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
   github: https://github.com/cynthiasuwi
   linkedin-square: https://linkedin.com/in/cynthiasuwi
   facebook-official: https://facebook.com/cynthiasuwi
+  #twitter: https://twitter.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
