@@ -10,6 +10,7 @@ comments: false
 
 ## EDUCATION
 <b>Shanghai Jiao Tong University</b> <i>M.S. in Electrical Engineering(Member of “Outstanding Engineers Project”)</i>
+
 <b>Honors:</b>
 * National Grid UHV Scholarship (￥10000 rank: 4/153)
 * Chuntsung Scholarship (￥3000+￥5000+￥10000)
@@ -17,6 +18,7 @@ comments: false
 * Chuntsung Scholar
 * Shanghai Jiao Tong University Outstanding Graduate
 * League Member and Triple-A Student
+
 <b>Exchange experience:</b>
 * Cambridge University Exchange Program
 * National Tsing-Hua University
@@ -35,10 +37,15 @@ comments: false
 
 ## ADDITIONAL INFO
 
-* <b>Language Skills:</b>
-Chinese(native),English (TOEFL:114), Japanese(conversational)
-*<b>Computer Skills:</b>
-Advanced user of TensorFlow, Caffe, Pytorch, PaddlePaddle, MatLab, LaTeX
-Familiar with C, C++, Python, Java, Assembly Language, HTML, SQL, Visual Basic
-*<b>Interests:</b>
-long term habit of Chinese calligraphy(15+ years), opera watching, movie, reading, debate, speech
+<b>Language Skills:</b>
+* Chinese(native)
+* English (TOEFL:114)
+* Japanese(conversational)
+
+<b>Computer Skills:</b>
+* Advanced user of TensorFlow, Caffe, Pytorch, PaddlePaddle, MatLab, LaTeX
+* Familiar with C, C++, Python, Java, Assembly Language, HTML, SQL, Visual Basic
+
+<b>Interests:</b>
+* long term habit of Chinese calligraphy(15+ years)
+* opera, movie, reading, debate, speech
