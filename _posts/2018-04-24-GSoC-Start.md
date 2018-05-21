@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "GSoC: Start from here"
 date: 2018-04-24
 excerpt: "GSoC: Start from here."
 tags: [GSoC]
