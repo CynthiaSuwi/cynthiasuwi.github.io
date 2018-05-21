@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC: Start from here"
 date: 2018-04-24
-excerpt: "GSoC: Start from here."
+excerpt: "Today, I received accepted mail from Google and love the last sentence so much "Have a great summer"."
 tags: [GSoC]
 comments: true
 ---
@@ -13,7 +13,7 @@ comments: true
 
 Google Summer of Code is the dream of many open source programmers — even without the monetary perks, it is a thing worth striving for.
 
-Today, I received accepted mail from Google and love the last sentence so much "*Have a great summer*":
+Today, I received accepted mail from Google and love the last sentence so much "*Have a great summer*".
 
 ## What do I do first?
 
