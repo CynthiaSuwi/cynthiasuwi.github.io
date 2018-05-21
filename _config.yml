@@ -5,7 +5,7 @@ description:        "My recording in GSoC 2018."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/suwi.jpg'
-background:         'assets/img/evening.jpg'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             China
 url:                https://cynthiasuwi.github.io/
