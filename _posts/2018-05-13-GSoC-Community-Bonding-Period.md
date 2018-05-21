@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Start of Google Summer of Code 2018: Community Bonding Period"
+title:  "Start of GSoC 2018: Community Bonding Period"
 date:   2018-05-13
-excerpt: "Start of Google Summer of Code 2018: Community Bonding Period."
+excerpt: "Community Bonding Period: April 24 — May 14, 2018."
 tag:
 - GSoC
 comments: true
