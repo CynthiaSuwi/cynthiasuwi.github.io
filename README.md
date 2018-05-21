@@ -6,17 +6,25 @@
 ## EDUCATION
 **Shanghai Jiao Tong University** *M.S. in Electrical Engineering(Member of “Outstanding Engineers Project”)*
 
-**Honors:**
-* National Grid UHV Scholarship (￥10000 rank: 4/153)
-* Chuntsung Scholarship (￥3000+￥5000+￥10000)
-* The Best Student of 2017 in Shanghai Jiaotong University
-* Chuntsung Scholar
-* Shanghai Jiao Tong University Outstanding Graduate
-* League Member and Triple-A Student
+* **Honors:**
 
-**Exchange experience:**
-* Cambridge University Exchange Program
-* National Tsing-Hua University
+&emsp;&emsp;National Grid UHV Scholarship (￥10000 rank: 4/153)
+
+&emsp;&emsp;Chuntsung Scholarship (￥3000+￥5000+￥10000)
+
+&emsp;&emsp;The Best Student of 2017 in Shanghai Jiaotong University
+
+&emsp;&emsp;Chuntsung Scholar
+
+&emsp;&emsp;Shanghai Jiao Tong University Outstanding Graduate
+
+&emsp;&emsp;League Member and Triple-A Student
+
+* **Exchange experience:**
+
+&emsp;&emsp;Cambridge University Exchange Program
+
+&emsp;&emsp;National Tsing-Hua University
 
 ## RESEARCH & COMPETITION
 
