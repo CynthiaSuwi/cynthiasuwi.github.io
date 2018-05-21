@@ -1,30 +1,40 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+Author Biography
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
+**[Shuwei Xu](https://github.com/CynthiaSuwi)** is a postgraduate student from SJTU.
+
+## EDUCATION
+**Shanghai Jiao Tong University** *M.S. in Electrical Engineering(Member of “Outstanding Engineers Project”)*
+**Honors:**
+* National Grid UHV Scholarship (￥10000 rank: 4/153)
+* Chuntsung Scholarship (￥3000+￥5000+￥10000)
+* The Best Student of 2017 in Shanghai Jiaotong University
+* Chuntsung Scholar
+* Shanghai Jiao Tong University Outstanding Graduate
+* League Member and Triple-A Student
+**Exchange experience:**
+* Cambridge University Exchange Program
+* National Tsing-Hua University
 * Page for sharing projects
 * Optional background image
 * Simple navigation menu
 * MathJax support
 
-## Preview
+## RESEARCH & COMPETITION
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+* Mathematical Contest in Modeling *Meritorious Winner (15%)*
+* National Electronic Design Competition  *Third Prize in Shanghai*
+* Chuntsung Project: Coordinated Charging of Plug-in Electric Vehicles in SJTU *Chuntsung Scholar*
+* Patent: Navigation System for Electric Vehicles Based on Real Time Data *(NO.2016103273391)*
+* Paper：Economic Impact of Electric Vehicle Fast-Charging Routing on Power Systems *(UCGES2016 Best Paper Award)*
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## ADDITIONAL INFO
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+* **Language Skills:**
+Chinese(native),English (TOEFL:114), Japanese(conversational)
+* **Computer Skills:**
+Advanced user of TensorFlow, Caffe, Pytorch, PaddlePaddle, MatLab, LaTeX
+Familiar with C, C++, Python, Java, Assembly Language, HTML, SQL, Visual Basic
+* **Interests:**
+long term habit of Chinese calligraphy(15+ years), opera watching, movie, reading, debate, speech
