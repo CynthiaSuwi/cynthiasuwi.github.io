@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC: Start from here"
 date: 2018-04-24
-excerpt: "Today, I received accepted mail from Google and love the last sentence so much "Have a great summer"."
+excerpt: "Today, I received accepted mail from Google and love the last sentence so much —— Have a great summer."
 tags: [GSoC]
 comments: true
 ---
