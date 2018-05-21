@@ -8,7 +8,7 @@ tag:
 comments: true
 ---
 
-# Start of Google Summer of Code 2018: Community Bonding Period
+# Start of GSoC 2018: Community Bonding Period
 
 ## Community Bonding Period: April 24 — May 14, 2018
 I started with GSoC on 24 April. I made contact with my mentors. I came to know that my primary mentor is Huijian Lv, littleowen and Mark Turner. I am talking to them since then. They also created a slack team for this year’s GSoC projects.
