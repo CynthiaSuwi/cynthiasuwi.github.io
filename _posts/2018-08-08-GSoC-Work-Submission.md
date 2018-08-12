@@ -65,4 +65,5 @@ Different from direct prediction of word distribution using deep learning end-to
 I am thankful to my primary mentors - Prof. Mark Turner and Prof. Francis Steen, for all the support they provided. They always supported me when I faced some issues/bugs in my code. Also, I would like to thank Michael Pacchioli sir, for all the help he provided on Red Hen Lab’s Slack channel. I will also thank PaddlePaddle’s Deep Speech’s developers. Lastly, I would like to thank Prof. Robert Ochshorn,  Prof. Peter Uhrig, and all other Red Hen Lab members for their support.
 
 And most importantly, I express my gratitude to the people behind Google Summer of Code. I had a very enjoyable experience working in GSoC 2018. I hope I keep contributing.
+
 ![](http://markturner.org/RedHenNoBackgroundWebsiteSmall.png)
